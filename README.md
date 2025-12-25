@@ -12,7 +12,7 @@ A classic Snake and Ladders game implementation using Python and Pygame.
 
 ## Requirements
 
-- Python 3.x
+- Python 3.13
 - Pygame library
 
 ## Installation
